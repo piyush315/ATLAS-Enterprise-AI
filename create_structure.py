@@ -69,3 +69,14 @@ def create_structure():
 
 if __name__ == "__main__":
     create_structure()
+
+
+
+
+# ---aws services I will use
+# s3
+# EC2
+# ECR
+# AWS Bedrock
+
+# IAM - Identity Access Management
