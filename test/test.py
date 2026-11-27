@@ -27,7 +27,7 @@ chat_response = client.chat.completions.create(
     messages=[
         {
             "role": "user",
-            "content": "Explain RAG in one sentence."
+            "content": "Explain RAG in two  sentence."
         }
     ],
     max_tokens=200
